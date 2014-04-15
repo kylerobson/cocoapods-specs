@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'EGOTableViewPullRefresh'
+  s.name     = 'EGOTableViewPullRefresh@kylerobson'
   s.version  = '0.1.0'
   s.platform = :ios
   s.license  = 'MIT'
