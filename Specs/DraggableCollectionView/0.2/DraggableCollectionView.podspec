@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/lognllc/DraggableCollectionView"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'Luke Scott' => '', 'Rex Sheng' => '' }
-  s.source       = { :git => "https://github.com/lognllc/DraggableCollectionView.git", :commit => "b78539845dd290be036b3d6977ff64709a7acde9" }
+  s.source       = { :git => "https://github.com/lukescott/DraggableCollectionView.git", commit => "b78539845dd290be036b3d6977ff64709a7acde9" }
   s.platform     = :ios, '6.0'
   s.requires_arc = true
   s.source_files = 'DraggableCollectionView', 'DraggableCollectionView/**/*.{h,m}'
