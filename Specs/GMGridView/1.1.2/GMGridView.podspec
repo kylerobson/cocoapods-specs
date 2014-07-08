@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'GPL', :file => 'LICENSE' }
   s.authors      = { 'a' => 'some@email.com' }
   s.source       = { :git => "https://github.com/gmoledina/GMGridView.git", :commit => "9002e6089980cd8bedeeb9ab9630debd0e8c2641" }
-  s.platform     = :ios, '6.0'
+  s.platform     = :ios, '5.0'
   s.requires_arc = true
   s.source_files = "GMGridView/*.{h,m}"
   s.frameworks = "QuartzCore"
